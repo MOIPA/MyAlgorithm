@@ -1,2 +1,3 @@
-# MyAlgorithm
-is that too late？
+### 算法题目
+
+算法好的人运气不会太差
